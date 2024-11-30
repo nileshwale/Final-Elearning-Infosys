@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Merienda+One&family=Staatliches&display=swap');
+
+.btn-primary
+{
+   background-color: rgb(21, 93, 217);
+   border-radius: 10px;
+   font-weight: bold;
+}
+.btn-primary:hover
+{
+   background-color: rgb(30, 11, 171);
+   cursor: pointer;
+}
+.heading-text
+{
+    font-weight: bolder;
+    font-size: 40px;
+    margin-top: 3%;
+    color: rgb(0, 23, 100);
+    font-family: 'Aladin', cursive;
+    letter-spacing: 1px;
+    margin-left: 42%;
+}
